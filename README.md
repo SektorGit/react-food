@@ -1,3 +1,8 @@
+# react-food
+Restaurant App in React
+Preview App here http://SektorGit.github.io/react-food
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
