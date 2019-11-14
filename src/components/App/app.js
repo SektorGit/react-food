@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from '../../logo.svg';
 import './App.css';
+import SearchBar from '../SearchBar/Searchbar';
+import BusinessList from '../BusinessList/BusinessList';
 
 function App() {
   return (
